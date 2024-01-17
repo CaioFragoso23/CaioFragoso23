@@ -23,8 +23,7 @@ I'm a student in search of new projects, always trying to meet new devs and lear
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/caiofragoso23/">
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 
