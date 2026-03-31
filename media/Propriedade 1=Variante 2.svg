@@ -6,7 +6,7 @@
     .text-color { fill: white; }
 
     /* Cores para Dark Mode */
-    @media (prefers-color-scheme: light) {
+    @media (prefers-color-scheme: dark) {
       .main-color { fill: ##0A771A; stroke: ##0A771A; } /* Um verde mais vibrante para contraste */
       .bg-elements { fill: #121212; stroke: #121212; }
       .text-color { fill: black; }
